@@ -1,4 +1,4 @@
-source "https://rubygems.org"
+easource "https://rubygems.org"
 
 gem 'rspec'
 gem 'pry'
